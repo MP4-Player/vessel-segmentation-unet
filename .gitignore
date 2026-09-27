@@ -1,0 +1,17 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data and weights (large)
+filters/filtered_*/
+*.pth
+*.pt
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
